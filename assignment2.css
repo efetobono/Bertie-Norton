@@ -1,0 +1,58 @@
+#parent-section{
+	display: flex;
+}
+
+#section-1{
+	background-color: white;
+	height: 500px;
+	width: 50%;
+	text-align: center;
+}
+
+#section-2{
+	background-color: orange;
+	height: 500px;
+	width: 40%;
+	text-align: center;
+	align-items: center;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+#parent-section-2{
+	display: flex;
+	background-color: white;
+	width: 20%;
+	margin-left: 40%;
+	margin-right: 40%;
+	margin-top: 7%;
+}
+
+#girl{
+	padding-top: 15%;
+}
+
+#title-1{
+	font-size: 40px;
+}
+
+#title-2{
+	margin-top: 15%;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.icon{
+	width: 100%;
+}
+
+.text{
+	font-size: 20px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.free{
+	color: grey;
+	font-size: 15px;
+}
